@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <section>
-          <h2>Hello Tech2102 Final Project! Update April 17 - 1:01 - with Webhook</h2>
+          <h2>Hello Tech2102 Final Project! Update April 17 - 1:01 - with Webhook2</h2>
         </section>
       </body>
     </html>
